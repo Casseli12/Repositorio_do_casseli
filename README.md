@@ -11,4 +11,5 @@ Uma coleção de jogos feitos em **HTML5**, prontos para rodar **diretamente no 
 Aproveite a coleção e divirta-se! 🎉
 
 # 👾 Jogos
+ALGUNS JOGOS NÃO SÃO FEITOS POR MIM EXEMPLO: MINECRAFT-PeytonPlayz585, lax1dude e ayunami2000
 [![🎮 Jogar Minecraft](https://img.shields.io/badge/🎮-Jogar%20Minecraft-green?style=for-the-badge)](https://casseli12.github.io/WebArcade/Minecraft/Minecraft.html)
