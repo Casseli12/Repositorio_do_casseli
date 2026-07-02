@@ -7,6 +7,5 @@ Uma coleção de jogos feitos em **HTML5**, prontos para rodar **diretamente no 
 * 🎮 Jogos leves e divertidos
 * 🌐 Funcionam em qualquer navegador moderno
 * ⚡ Início praticamente instantâneo
-* 📱 Compatíveis com computador e dispositivos móveis
-
+* 📱 Compatíveis somente com computador
 Aproveite a coleção e divirta-se! 🎉
