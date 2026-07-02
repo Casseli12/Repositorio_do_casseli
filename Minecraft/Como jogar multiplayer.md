@@ -21,4 +21,8 @@ Pronto! agora você esta na aba de Shared world relay servers procure um botão 
 <img src="https://raw.githubusercontent.com/Casseli12/WebArcade/main/Minecraft/Imagens/Captura de tela 2026-07-02 064458.png" width="1000">
 
 
-Agora no seu google cole a seguinte coisa na barra de pesquisa:https://eagler-relay-1s52.onrender.com
+Agora entre no link e volte a esta pagina (fique por 20 segundo):https://eagler-relay-1s52.onrender.com
+Você entrara neste site
+
+
+<img src="https://raw.githubusercontent.com/Casseli12/WebArcade/main/Minecraft/Imagens/Captura de tela 2026-07-02 064823.png" width="1000">
