@@ -23,14 +23,17 @@ Pronto! agora você esta na aba de Shared world relay servers procure um botão 
 <img src="https://raw.githubusercontent.com/Casseli12/WebArcade/main/Minecraft/Imagens/Captura de tela 2026-07-02 064458.png" width="1000">
 
 
-Agora entre no link e volte a esta pagina (fique por 20 segundo): https://eagler-relay-1s52.onrender.com
+Agora entre no link e volte a esta pagina (fique por 20 segundos): https://eagler-relay-1s52.onrender.com
+
 Você entrara neste site
+
 (Não importa se deu erro so tem que entrar no site para ativar o relay)
 
 <img src="https://raw.githubusercontent.com/Casseli12/WebArcade/main/Minecraft/Imagens/Captura de tela 2026-07-02 064823.png" width="1000">
 
 
-agora voltando ao minecraft no relay address cole o seguinte link: https://eagler-relay-1s52.onrender.com
+agora voltando ao minecraft, no relay address cole o seguinte link: https://eagler-relay-1s52.onrender.com
+
 e clique em add relay
 
 
@@ -41,3 +44,43 @@ depois e só clicar em "Done" e depois em "Start LAN World"
 
 
 <img src="https://raw.githubusercontent.com/Casseli12/WebArcade/main/Minecraft/Imagens/Captura de tela 2026-07-02 064835.png" width="1000">
+
+ㅤ
+# COMO ENTRAR NO MUNDO
+
+Vá em multiplayer (Na tela inicial)
+
+E depois vá em "Network settings" no canto da tela
+
+
+<img src="https://raw.githubusercontent.com/Casseli12/WebArcade/main/Minecraft/Imagens/Captura de tela 2026-07-02 065437.png" width="1000">
+
+
+Ai você clica em "Continue" e depois "Add relay"
+
+
+<img src="https://raw.githubusercontent.com/Casseli12/WebArcade/main/Minecraft/Imagens/Captura de tela 2026-07-02 064458.png" width="1000">
+
+
+Agora em address relay cole: https://eagler-relay-1s52.onrender.com
+
+E clique em "Add relay"
+
+
+<img src="https://raw.githubusercontent.com/Casseli12/WebArcade/main/Minecraft/Imagens/Captura de tela 2026-07-02 064717.png" width="1000">
+
+
+Feito isso vá em "Done"
+
+
+<img src="https://raw.githubusercontent.com/Casseli12/WebArcade/main/Minecraft/Imagens/Captura de tela 2026-07-02 064835.png" width="1000">
+
+
+Agora va em "Direct Connect"
+
+e clique em "Join Shared World"
+
+ e coloque o codigo que esta no chat do dono do mundo (Aperte T para acessar o chat)
+
+
+ <img src="https://raw.githubusercontent.com/Casseli12/WebArcade/main/Minecraft/Imagens/Captura de tela 2026-07-02 064835.png" width="1000">
