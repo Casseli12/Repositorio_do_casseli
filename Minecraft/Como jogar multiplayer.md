@@ -1,6 +1,6 @@
 # ⚠️AVISO: ISSO SO FUNCIONA NA MESMA REDE WI-FI⚠️
 
-# ESSA PARTE E PRA QUEM CRIAR O MUNDO ROLE MAIS PARA BAIXO PARA SABER COMO ENTRAR NO MUNDO
+# ESSA PARTE E PRA QUEM VAI CRIAR O MUNDO, ROLE MAIS PARA BAIXO PARA SABER COMO ENTRAR NO MUNDO
 
 Para jogar Multiplayer Crie um mundo e acesse o menu clicando o botão ESC
 
@@ -23,7 +23,7 @@ Pronto! agora você esta na aba de Shared world relay servers procure um botão 
 <img src="https://raw.githubusercontent.com/Casseli12/WebArcade/main/Minecraft/Imagens/Captura de tela 2026-07-02 064458.png" width="1000">
 
 
-Agora entre no link e volte a esta pagina (fique por 20 segundo):https://eagler-relay-1s52.onrender.com
+Agora entre no link e volte a esta pagina (fique por 20 segundo): https://eagler-relay-1s52.onrender.com
 Você entrara neste site
 (Não importa se deu erro so tem que entrar no site para ativar o relay)
 
